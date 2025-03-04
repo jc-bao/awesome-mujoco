@@ -19,6 +19,7 @@ A collection of awesome projects using MuJoCo.
 * [Model-based-Diffusion](https://github.com/LeCAR-Lab/model-based-diffusion): MJX-based trajectory generation with sampling-based method.
 * [DIAL-MPC](https://github.com/LeCAR-Lab/dial-mpc): GPU-based sampling-based MPC for legged robots with sim2sim/sim2real interface.
 * [Whole-Body-MPPI](https://github.com/jrapudg/RTWholeBodyMPPI): CPU-based sampling-based MPC for legged robots.
+* [DROP](https://github.com/Caltech-AMBER/drop): MujoCo-MPC-based online in-hand manipulation with sampling-based optimization. 
 
 ## Learning
 
