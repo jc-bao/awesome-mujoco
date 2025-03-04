@@ -14,6 +14,7 @@ A collection of awesome projects using MuJoCo.
 
 * [MuJoCo-MPC](https://github.com/google-deepmind/mujoco_mpc): real-time model predictive control using MuJoCo by Google DeepMind.
 * [Mink](https://github.com/kevinzakka/mink/tree/main): MuJoCo-based inverse kinematics library.
+* [Mjinx](https://github.com/based-robotics/mjinx): MJX-based inverse kinematics library.
 * [mjctrl](https://github.com/kevinzakka/mjctrl): MuJoCo-based manipulator control library.
 * [Model-based-Diffusion](https://github.com/LeCAR-Lab/model-based-diffusion): MJX-based trajectory generation with sampling-based method.
 * [DIAL-MPC](https://github.com/LeCAR-Lab/dial-mpc): GPU-based sampling-based MPC for legged robots with sim2sim/sim2real interface.
