@@ -22,7 +22,7 @@ A collection of awesome projects using MuJoCo.
 ## Learning
 
 * [MuJoCo-Playground](https://github.com/google-deepmind/mujoco_playground): robot learning library and sim2real interface by Google DeepMind.
-* [Brax](https://github.com/google/brax): parallel simulation support MJX with command RL algorithms.
+* [Brax](https://github.com/google/brax): parallel simulation support MJX with common RL algorithms.
 * [DM-Control](https://github.com/deepmind/dm_control): CPU-based RL environment library by DeepMind.
 * [LocoMuJoCo](https://github.com/robfiras/loco-mujoco): imitation learning library for legged robots.
 
