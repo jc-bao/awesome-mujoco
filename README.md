@@ -15,9 +15,11 @@ A collection of awesome projects using MuJoCo.
 * [MuJoCo-MPC](https://github.com/google-deepmind/mujoco_mpc): real-time model predictive control using MuJoCo by Google DeepMind.
 * [Mink](https://github.com/kevinzakka/mink/tree/main): MuJoCo-based inverse kinematics library.
 * [mjctrl](https://github.com/kevinzakka/mjctrl): MuJoCo-based manipulator control library.
+* [Generative Predictive Control](https://github.com/vincekurtz/gpc/tree/main?tab=readme-ov-file): Flow matching policy with MJX. 
 * [Model-based-Diffusion](https://github.com/LeCAR-Lab/model-based-diffusion): MJX-based trajectory generation with sampling-based method.
 * [DIAL-MPC](https://github.com/LeCAR-Lab/dial-mpc): GPU-based sampling-based MPC for legged robots with sim2sim/sim2real interface.
 * [Whole-Body-MPPI](https://github.com/jrapudg/RTWholeBodyMPPI): CPU-based sampling-based MPC for legged robots.
+* [Hydrax](https://github.com/vincekurtz/hydrax): Sampling-based MPC with MJX. 
 
 ## Learning
 
