@@ -12,16 +12,16 @@ A collection of awesome projects using MuJoCo.
 
 ## Control
 
-* [MuJoCo-MPC](https://github.com/google-deepmind/mujoco_mpc): real-time model predictive control using MuJoCo by Google DeepMind.
-* [Mink](https://github.com/kevinzakka/mink/tree/main): MuJoCo-based inverse kinematics library.
-* [Mjinx](https://github.com/based-robotics/mjinx): MJX-based inverse kinematics library.
-* [mjctrl](https://github.com/kevinzakka/mjctrl): MuJoCo-based manipulator control library.
-* [Generative Predictive Control](https://github.com/vincekurtz/gpc/tree/main?tab=readme-ov-file): Flow matching policy with MJX. 
-* [Model-based-Diffusion](https://github.com/LeCAR-Lab/model-based-diffusion): MJX-based trajectory generation with sampling-based method.
-* [DIAL-MPC](https://github.com/LeCAR-Lab/dial-mpc): GPU-based sampling-based MPC for legged robots with sim2sim/sim2real interface.
-* [Whole-Body-MPPI](https://github.com/jrapudg/RTWholeBodyMPPI): CPU-based sampling-based MPC for legged robots.
-* [Hydrax](https://github.com/vincekurtz/hydrax): Sampling-based MPC with MJX. 
-* [DROP](https://github.com/Caltech-AMBER/drop): MujoCo-MPC-based online in-hand manipulation with sampling-based optimization. 
+* [MuJoCo-MPC](https://github.com/google-deepmind/mujoco_mpc): Official MuJoCo MPC library by Google DeepMind. Provides efficient real-time model predictive control with parallel GPU implementation.
+* [Mink](https://github.com/kevinzakka/mink/tree/main): Fast and robust inverse kinematics solver using MuJoCo's physics engine. Supports various robot configurations.
+* [Mjinx](https://github.com/based-robotics/mjinx): Modern inverse kinematics library built on MJX (JAX-based MuJoCo). Enables gradient-based optimization.
+* [mjctrl](https://github.com/kevinzakka/mjctrl): Comprehensive robot manipulator control library with various control schemes (position, force, impedance control).
+* [Generative Predictive Control](https://github.com/vincekurtz/gpc): Novel MPC approach using flow matching for policy generation. Built on MJX for efficient parallel execution.
+* [Model-based-Diffusion](https://github.com/LeCAR-Lab/model-based-diffusion): Trajectory optimization using diffusion models and sampling. Leverages MJX for parallel simulation.
+* [DIAL-MPC](https://github.com/LeCAR-Lab/dial-mpc): High-performance MPC framework for legged robots. Features GPU acceleration and sim2real transfer capabilities.
+* [Whole-Body-MPPI](https://github.com/jrapudg/RTWholeBodyMPPI): Real-time whole-body control for legged robots using Model Predictive Path Integral control.
+* [Hydrax](https://github.com/vincekurtz/hydrax): Efficient sampling-based MPC implementation using MJX. Suitable for real-time control applications.
+* [DROP](https://github.com/Caltech-AMBER/drop): Advanced in-hand manipulation framework combining MuJoCo-MPC with sampling-based optimization for robust object manipulation.
 
 ## Learning
 
