@@ -8,7 +8,7 @@ A collection of awesome projects using MuJoCo.
 
 * [Official MuJoCo](https://github.com/google-deepmind/mujoco): Official MuJoCo repository.
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis): Taichi-based MuJoCo implementation with faster contact detection.
-* [mjWarp](https://github.com/erikfrey/mjx_warp): Nvidia Warp-based MuJoCo implementation. (under construction)
+* [Mujoco Warp](https://github.com/google-deepmind/mujoco_warp): Nvidia Warp-based MuJoCo implementation. (under construction)
 
 ## Control
 
