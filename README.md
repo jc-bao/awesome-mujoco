@@ -29,6 +29,7 @@ A collection of awesome projects using MuJoCo.
 * [Brax](https://github.com/google/brax): parallel simulation support MJX with common RL algorithms.
 * [DM-Control](https://github.com/deepmind/dm_control): CPU-based RL environment library by DeepMind.
 * [LocoMuJoCo](https://github.com/robfiras/loco-mujoco): imitation learning library for legged robots.
+* [so101-nexus](https://github.com/johnsutor/so101-nexus): Full-stack robot learning for the SO-101 arm (teleoperation, imitation learning, RL) in MuJoCo, with an optional NVIDIA Warp backend.
 
 ## Teleoperation
 
