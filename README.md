@@ -35,6 +35,10 @@ A collection of awesome projects using MuJoCo.
 
 * [MujocoAR](https://github.com/omarrayyann/MujocoAR): use iOS device to control MuJoCo frames in real-time. 
 
+## Tooling
+
+* [mjcf-doctor](https://github.com/ericzhubonnie-glitch/mjcf-doctor): Linter for the model errors MuJoCo accepts silently — collision masks that let everything fall through the floor, contacts soft enough to swallow a peg, inertia off by 10^6 from a kg·mm² export. Also has a batch `audit` mode; running it over all 82 Menagerie models found a 48 mm self-collision in `hello_robot_stretch_3` that fires 398 kN at t=0.
+
 ## Assets
 
 * [MuJoCo-Menagerie](https://github.com/google-deepmind/mujoco_menagerie): collection of MuJoCo models.
