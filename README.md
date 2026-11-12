@@ -9,6 +9,7 @@ A collection of awesome projects using MuJoCo.
 * [Official MuJoCo](https://github.com/google-deepmind/mujoco): Official MuJoCo repository.
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis): Taichi-based MuJoCo implementation with faster contact detection.
 * [Mujoco Warp](https://github.com/google-deepmind/mujoco_warp): Nvidia Warp-based MuJoCo implementation. (under construction)
+* [Alloy](https://github.com/argonrobotics-ai/alloy): Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
 
 ## Control
 
