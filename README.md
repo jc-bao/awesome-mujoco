@@ -22,6 +22,7 @@ A collection of awesome projects using MuJoCo.
 * [Whole-Body-MPPI](https://github.com/jrapudg/RTWholeBodyMPPI): Real-time whole-body control for legged robots using Model Predictive Path Integral control.
 * [Hydrax](https://github.com/vincekurtz/hydrax): Efficient sampling-based MPC implementation using MJX. Suitable for real-time control applications.
 * [DROP](https://github.com/Caltech-AMBER/drop): Advanced in-hand manipulation framework combining MuJoCo-MPC with sampling-based optimization for robust object manipulation.
+* [R4R](https://github.com/WhymustIhaveaname/R4R): Closed-form effective PD gains and joint inertia for a finite simulation timestep, so a simulated PD joint matches the real one. Tested in MuJoCo, MuJoCo Warp, and Isaac Sim. [arXiv](https://arxiv.org/abs/2607.24079)
 
 ## Learning
 
